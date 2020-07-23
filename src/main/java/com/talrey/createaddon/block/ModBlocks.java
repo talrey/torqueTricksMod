@@ -23,6 +23,7 @@ public class ModBlocks {
   // TODO put these in their own classes to implement workbench behavior: dbench, lbench
 
   public static void register (Registrate reg) {
+    reg.itemGroup(ModItems::getItemGroup, "Torque Tricks");
     R_BLOCK_MECHBRAKE = reg.block("block_mechbrake", BlockMechanicalBrake::new)
     .tileEntity(TileMechanicalBrake::new).renderer(() -> EncasedShaftRenderer::new).build()
     .blockstate((ctx, prov) -> prov.directionalBlock(ctx.getEntry(),
@@ -35,7 +36,7 @@ public class ModBlocks {
     .patternLine(" s ").key('c', Ingredient.fromItems(AllBlocks.ANDESITE_CASING.get()))
     .addCriterion("has_ingredient", prov.hasItem(AllBlocks.ANDESITE_CASING.get())).build(prov::accept)
     )
-    .simpleItem().item().properties(p -> p.group(ModItems.itemGroup)).build()
+    .simpleItem().item().properties(p -> p.group(ModItems.getItemGroup())).build()
     .lang("Analog Brake").register()
     ;
     R_BLOCK_COGRAIL = reg.block("block_cograil", BlockCograil::new)
@@ -50,7 +51,7 @@ public class ModBlocks {
     .patternLine("   ").key('c', Ingredient.fromItems(AllBlocks.ANDESITE_CASING.get()))
     .addCriterion("has_ingredient", prov.hasItem(AllItems.ANDESITE_ALLOY.get())).build(prov::accept)
     )
-    .simpleItem().item().properties(p -> p.group(ModItems.itemGroup)).build()
+    .simpleItem().item().properties(p -> p.group(ModItems.getItemGroup())).build()
     .lang("Cart Accelerator").register()
     ;
   }

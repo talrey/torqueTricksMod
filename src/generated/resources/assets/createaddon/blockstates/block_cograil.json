@@ -1,27 +1,79 @@
 {
   "variants": {
-    "facing=down": {
+    "axis=x,facing=down": {
       "model": "createaddon:block/block_cograil",
       "x": 180
     },
-    "facing=up": {
+    "axis=y,facing=down": {
+      "model": "createaddon:block/block_cograil",
+      "x": 180
+    },
+    "axis=z,facing=down": {
+      "model": "createaddon:block/block_cograil",
+      "x": 180
+    },
+    "axis=x,facing=up": {
       "model": "createaddon:block/block_cograil"
     },
-    "facing=north": {
+    "axis=y,facing=up": {
+      "model": "createaddon:block/block_cograil"
+    },
+    "axis=z,facing=up": {
+      "model": "createaddon:block/block_cograil"
+    },
+    "axis=x,facing=north": {
       "model": "createaddon:block/block_cograil",
       "x": 90
     },
-    "facing=south": {
+    "axis=y,facing=north": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90
+    },
+    "axis=z,facing=north": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90
+    },
+    "axis=x,facing=south": {
       "model": "createaddon:block/block_cograil",
       "x": 90,
       "y": 180
     },
-    "facing=west": {
+    "axis=y,facing=south": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,facing=south": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,facing=west": {
       "model": "createaddon:block/block_cograil",
       "x": 90,
       "y": 270
     },
-    "facing=east": {
+    "axis=y,facing=west": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,facing=west": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,facing=east": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,facing=east": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,facing=east": {
       "model": "createaddon:block/block_cograil",
       "x": 90,
       "y": 90

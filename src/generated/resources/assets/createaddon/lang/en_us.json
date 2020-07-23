@@ -1,4 +1,5 @@
 {
   "block.createaddon.block_cograil": "Cart Accelerator",
-  "block.createaddon.block_mechbrake": "Analog Brake"
+  "block.createaddon.block_mechbrake": "Analog Brake",
+  "itemGroup.torquetricks": "Torque Tricks"
 }
