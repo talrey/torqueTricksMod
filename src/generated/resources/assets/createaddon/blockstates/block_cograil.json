@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "createaddon:block/block_cograil",
+      "x": 180
+    },
+    "facing=up": {
+      "model": "createaddon:block/block_cograil"
+    },
+    "facing=north": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createaddon:block/block_cograil",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

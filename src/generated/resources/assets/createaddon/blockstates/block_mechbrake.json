@@ -1,0 +1,2500 @@
+{
+  "variants": {
+    "axis=x,brake=0,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=0,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=0,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=1,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=1,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=1,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=2,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=2,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=2,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=3,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=3,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=3,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=4,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=4,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=4,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=5,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=5,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=5,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=6,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=6,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=6,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=7,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=7,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=7,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=8,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=8,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=8,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=9,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=9,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=9,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=10,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=10,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=10,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=11,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=11,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=11,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=12,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=12,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=12,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=13,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=13,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=13,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=14,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=14,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=14,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=15,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=15,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=15,facing=down,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=0,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=0,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=0,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=1,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=1,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=1,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=2,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=2,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=2,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=3,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=3,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=3,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=4,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=4,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=4,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=5,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=5,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=5,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=6,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=6,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=6,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=7,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=7,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=7,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=8,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=8,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=8,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=9,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=9,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=9,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=10,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=10,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=10,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=11,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=11,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=11,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=12,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=12,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=12,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=13,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=13,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=13,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=14,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=14,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=14,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=15,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=15,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=15,facing=up,powered=false": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=0,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=0,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=0,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=1,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=1,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=1,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=2,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=2,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=2,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=3,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=3,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=3,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=4,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=4,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=4,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=5,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=5,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=5,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=6,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=6,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=6,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=7,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=7,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=7,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=8,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=8,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=8,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=9,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=9,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=9,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=10,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=10,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=10,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=11,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=11,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=11,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=12,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=12,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=12,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=13,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=13,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=13,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=14,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=14,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=14,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=15,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=15,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=15,facing=north,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=0,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=0,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=0,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=1,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=1,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=1,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=2,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=2,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=2,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=3,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=3,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=3,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=4,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=4,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=4,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=5,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=5,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=5,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=6,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=6,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=6,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=7,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=7,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=7,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=8,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=8,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=8,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=9,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=9,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=9,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=10,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=10,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=10,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=11,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=11,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=11,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=12,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=12,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=12,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=13,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=13,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=13,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=14,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=14,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=14,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=15,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=15,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=15,facing=south,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=0,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=0,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=0,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=1,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=1,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=1,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=2,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=2,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=2,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=3,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=3,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=3,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=4,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=4,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=4,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=5,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=5,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=5,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=6,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=6,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=6,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=7,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=7,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=7,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=8,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=8,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=8,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=9,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=9,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=9,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=10,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=10,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=10,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=11,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=11,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=11,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=12,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=12,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=12,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=13,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=13,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=13,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=14,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=14,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=14,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=15,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=15,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=15,facing=west,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=0,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=0,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=0,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=1,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=1,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=1,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=2,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=2,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=2,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=3,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=3,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=3,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=4,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=4,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=4,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=5,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=5,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=5,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=6,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=6,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=6,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=7,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=7,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=7,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=8,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=8,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=8,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=9,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=9,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=9,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=10,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=10,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=10,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=11,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=11,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=11,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=12,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=12,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=12,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=13,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=13,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=13,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=14,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=14,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=14,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=15,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=15,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=15,facing=east,powered=false": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=0,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=0,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=0,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=1,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=1,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=1,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=2,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=2,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=2,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=3,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=3,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=3,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=4,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=4,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=4,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=5,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=5,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=5,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=6,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=6,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=6,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=7,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=7,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=7,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=8,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=8,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=8,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=9,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=9,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=9,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=10,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=10,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=10,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=11,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=11,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=11,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=12,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=12,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=12,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=13,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=13,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=13,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=14,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=14,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=14,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=15,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=y,brake=15,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=z,brake=15,facing=down,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 180
+    },
+    "axis=x,brake=0,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=0,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=0,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=1,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=1,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=1,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=2,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=2,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=2,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=3,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=3,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=3,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=4,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=4,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=4,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=5,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=5,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=5,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=6,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=6,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=6,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=7,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=7,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=7,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=8,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=8,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=8,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=9,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=9,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=9,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=10,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=10,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=10,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=11,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=11,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=11,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=12,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=12,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=12,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=13,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=13,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=13,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=14,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=14,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=14,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=15,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=y,brake=15,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=z,brake=15,facing=up,powered=true": {
+      "model": "createaddon:block/block_mechbrake"
+    },
+    "axis=x,brake=0,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=0,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=0,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=1,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=1,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=1,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=2,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=2,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=2,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=3,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=3,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=3,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=4,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=4,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=4,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=5,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=5,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=5,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=6,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=6,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=6,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=7,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=7,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=7,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=8,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=8,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=8,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=9,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=9,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=9,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=10,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=10,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=10,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=11,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=11,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=11,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=12,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=12,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=12,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=13,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=13,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=13,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=14,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=14,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=14,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=15,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=y,brake=15,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=z,brake=15,facing=north,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90
+    },
+    "axis=x,brake=0,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=0,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=0,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=1,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=1,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=1,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=2,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=2,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=2,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=3,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=3,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=3,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=4,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=4,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=4,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=5,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=5,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=5,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=6,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=6,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=6,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=7,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=7,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=7,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=8,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=8,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=8,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=9,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=9,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=9,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=10,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=10,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=10,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=11,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=11,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=11,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=12,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=12,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=12,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=13,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=13,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=13,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=14,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=14,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=14,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=15,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=y,brake=15,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=z,brake=15,facing=south,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 180
+    },
+    "axis=x,brake=0,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=0,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=0,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=1,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=1,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=1,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=2,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=2,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=2,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=3,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=3,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=3,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=4,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=4,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=4,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=5,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=5,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=5,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=6,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=6,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=6,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=7,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=7,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=7,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=8,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=8,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=8,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=9,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=9,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=9,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=10,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=10,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=10,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=11,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=11,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=11,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=12,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=12,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=12,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=13,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=13,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=13,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=14,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=14,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=14,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=15,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=y,brake=15,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=z,brake=15,facing=west,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 270
+    },
+    "axis=x,brake=0,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=0,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=0,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=1,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=1,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=1,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=2,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=2,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=2,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=3,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=3,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=3,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=4,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=4,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=4,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=5,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=5,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=5,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=6,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=6,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=6,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=7,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=7,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=7,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=8,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=8,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=8,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=9,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=9,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=9,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=10,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=10,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=10,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=11,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=11,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=11,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=12,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=12,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=12,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=13,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=13,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=13,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=14,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=14,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=14,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=x,brake=15,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,brake=15,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    },
+    "axis=z,brake=15,facing=east,powered=true": {
+      "model": "createaddon:block/block_mechbrake",
+      "x": 90,
+      "y": 90
+    }
+  }
+}
