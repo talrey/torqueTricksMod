@@ -9,7 +9,6 @@ import net.minecraft.client.renderer.Vector3f;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.item.minecart.AbstractMinecartEntity;
 import net.minecraft.item.BlockItemUseContext;
-import net.minecraft.state.BooleanProperty;
 import net.minecraft.state.StateContainer;
 import net.minecraft.state.properties.BlockStateProperties;
 import net.minecraft.tileentity.TileEntity;
@@ -26,41 +25,17 @@ import net.minecraft.util.math.shapes.VoxelShapes;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IWorldReader;
 import net.minecraft.world.World;
-import net.minecraftforge.client.event.sound.SoundEvent;
-import net.minecraftforge.fml.RegistryObject;
-import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.registries.ForgeRegistries;
 
-import javax.annotation.Nullable;
 import java.util.List;
 import java.util.function.Predicate;
 
 public class BlockCograil extends RotatedPillarKineticBlock {
 
- // public static final BooleanProperty DO_SOUND = BooleanProperty.create("do_sound");
-
-  private static final Vec3d trig_contract_max = new Vec3d(0.4d, 0d, 0.4);
-  private static final Vec3d trig_contract_min = new Vec3d(-0.4d, 0d, -0.4d);
-  private static final Vec3d trig_expand       = new Vec3d(0d, 0.25d, 0d);
-
-  private static final Vec3d hit_expand  = new Vec3d(0d, 0.10d, 0d);
-
-  private static final VoxelShape detectionShape = VoxelShapes.create(
-    VoxelShapes.fullCube().getBoundingBox()
-      .contract(trig_contract_max.x, trig_contract_max.y, trig_contract_max.z)
-      .contract(trig_contract_min.x, trig_contract_min.y, trig_contract_min.z)
-      .expand(trig_expand)
-  );
-
-  private static final VoxelShape collisionShape = VoxelShapes.create(
-    VoxelShapes.fullCube().getBoundingBox().expand(hit_expand)
-  );
-
   public BlockCograil (Properties properties) {
     super (properties);
     setDefaultState(getDefaultState()
       .with(BlockStateProperties.FACING, Direction.NORTH)
-//      .with(DO_SOUND, false)
     );
   }
 
@@ -116,7 +91,6 @@ public class BlockCograil extends RotatedPillarKineticBlock {
         if (forward.getX() < 0 || forward.getZ() > 0) speed = -speed;
         collider.addVelocity(forward.getX()*speed, 0d, forward.getZ()*speed);
         //System.out.println("speed="+speed);
-//        world.setBlockState(pos, state.with(DO_SOUND, true));
         if (Math.abs(speed) > 0.1d) world.playSound(
           null, pos, SoundEvents.ENTITY_PHANTOM_FLAP, SoundCategory.BLOCKS,
           /* Volume */ 100f, /* Pitch */ 0.8f
@@ -128,7 +102,6 @@ public class BlockCograil extends RotatedPillarKineticBlock {
   @Override
   protected void fillStateContainer(StateContainer.Builder<Block, BlockState> builder) {
     builder.add(BlockStateProperties.FACING);
-//    builder.add(DO_SOUND);
     super.fillStateContainer(builder);
   }
 
@@ -138,7 +111,6 @@ public class BlockCograil extends RotatedPillarKineticBlock {
     return super.getStateForPlacement(context)
       .with(BlockStateProperties.FACING, facing)
       .with(AXIS, facing.getAxis() == Axis.X ? Axis.Z : Axis.X)
-//      .with(DO_SOUND, false)
     ;
   }
 

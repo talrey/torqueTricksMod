@@ -2,14 +2,8 @@ package com.talrey.createaddon.item;
 
 import com.talrey.createaddon.block.ModBlocks;
 import com.tterrag.registrate.Registrate;
-import com.tterrag.registrate.util.DataIngredient;
-import com.tterrag.registrate.util.entry.ItemEntry;
-import net.minecraft.data.ShapedRecipeBuilder;
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
-import net.minecraft.item.crafting.Ingredient;
 
 public class ModItems {
   private static ModItemGroup itemGroup;
