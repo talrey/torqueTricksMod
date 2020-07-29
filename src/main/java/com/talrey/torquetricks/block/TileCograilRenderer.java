@@ -1,4 +1,4 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.simibubi.create.AllBlocks;

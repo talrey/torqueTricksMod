@@ -1,9 +1,9 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
 import com.simibubi.create.AllBlocks;
 import com.simibubi.create.AllItems;
 import com.simibubi.create.content.contraptions.relays.encased.EncasedShaftRenderer;
-import com.talrey.createaddon.item.ModItems;
+import com.talrey.torquetricks.item.ModItems;
 
 import com.tterrag.registrate.Registrate;
 import com.tterrag.registrate.util.entry.BlockEntry;
@@ -14,7 +14,6 @@ import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.data.ShapedRecipeBuilder;
 import net.minecraft.item.Items;
 import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.common.ToolType;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;

@@ -1,4 +1,4 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
 import net.minecraft.block.Block;
 

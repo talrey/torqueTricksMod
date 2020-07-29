@@ -1,4 +1,4 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
 import com.simibubi.create.content.contraptions.relays.encased.GearshiftBlock;
 import com.tterrag.registrate.util.entry.TileEntityEntry;

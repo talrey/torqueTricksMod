@@ -1,6 +1,6 @@
-package com.talrey.createaddon.item;
+package com.talrey.torquetricks.item;
 
-import com.talrey.createaddon.block.ModBlocks;
+import com.talrey.torquetricks.block.ModBlocks;
 import com.tterrag.registrate.Registrate;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;

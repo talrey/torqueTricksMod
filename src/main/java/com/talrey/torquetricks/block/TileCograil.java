@@ -1,6 +1,6 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
-import com.talrey.createaddon.Config;
+import com.talrey.torquetricks.Config;
 
 import com.simibubi.create.content.contraptions.base.KineticTileEntity;
 import net.minecraft.block.Block;

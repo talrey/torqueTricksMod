@@ -1,7 +1,7 @@
-package com.talrey.createaddon;
+package com.talrey.torquetricks;
 
-import com.talrey.createaddon.item.*;
-import com.talrey.createaddon.block.*;
+import com.talrey.torquetricks.item.*;
+import com.talrey.torquetricks.block.*;
 
 import com.tterrag.registrate.Registrate;
 import net.minecraftforge.common.MinecraftForge;
@@ -11,13 +11,13 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-@Mod("createaddon")
+@Mod("torquetricks")
 public class TorqueTricksMod
 {
   // Directly reference a log4j logger.
   private static final Logger LOGGER = LogManager.getLogger();
 
-  public static final String MOD_ID = "createaddon";
+  public static final String MOD_ID = "torquetricks";
   public static Registrate TTM_REGISTRATE;
 
   public TorqueTricksMod() {

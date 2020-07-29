@@ -1,8 +1,8 @@
-package com.talrey.createaddon.block;
+package com.talrey.torquetricks.block;
 
 import com.simibubi.create.content.contraptions.base.KineticTileEntity;
 import com.simibubi.create.content.contraptions.base.RotatedPillarKineticBlock;
-import com.talrey.createaddon.Config;
+import com.talrey.torquetricks.Config;
 import com.tterrag.registrate.util.entry.TileEntityEntry;
 import net.minecraft.block.*;
 import net.minecraft.client.renderer.Vector3f;

@@ -1,4 +1,4 @@
-package com.talrey.createaddon;
+package com.talrey.torquetricks;
 
 public class Config {
   public static final float COGRAIL_STRESS  = 10f;
