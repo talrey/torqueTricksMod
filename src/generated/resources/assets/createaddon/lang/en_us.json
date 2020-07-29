@@ -1,5 +1,7 @@
 {
   "block.createaddon.block_cograil": "Cart Accelerator",
   "block.createaddon.block_mechbrake": "Analog Brake",
+  "block.createaddon.block_spikes": "Spike Floor",
+  "block.createaddon.blocks_spikes2": "Spike Top",
   "itemGroup.torquetricks": "Torque Tricks"
 }
